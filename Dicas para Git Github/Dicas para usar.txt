@@ -1,0 +1,16 @@
+CLS - Usado para limpar
+
+explorer . - Usado para ver a pasta.
+
+code . - Usado para abrir o visual studio.
+
+dotnet restore - Usado para restaurar os pacotes(baixar).
+
+dotnet build - Usado para restaurar(complilação).
+
+cd - Volta para uma pasta anterior.
+
+dotnet run -p (Criar uma pasta)
+ex: dotnet run -p Digital (Criar uma pasta com o nome Digital).
+
+git add . - Para adicionar todos os arquivos.
