@@ -1,2 +1,2 @@
 # desafio-github
-Desafio de projeto sobre Git/Github
+Repositorio criado sobre o desafio de projeto.
